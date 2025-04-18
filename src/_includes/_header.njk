@@ -1,0 +1,16 @@
+<!-- axelinter:disable:button-name -->
+<header id="header">
+  <cluster-l justify="space-between" align="center" id="nav-primary-wrapper">
+    <cluster-l justify="flex-start">
+      <div id="header__sli-logo-wrapper">
+        <a href="/#s1"><span class="sr-only">Home</span><span class="icon-lion">{% svgIcon "./_site/assets/images/icons/sli-logo.svg" %}</span></a>
+      </div>
+    </cluster-l>
+    <cluster-l justify="flex-start" space="var(--s-1)">
+      {% include "_nav-main.njk" %}
+      <sli-theme-toggle>
+        <button id="theme-toggle"></button>
+      </sli-theme-toggle>
+    </cluster-l>
+  </cluster-l>
+</header>

@@ -1,0 +1,52 @@
+.admonition {
+  padding: var(--s1) var(--s2);
+
+  background-color: var(--sli-alert-color-background);
+  border: 0 solid var(--sli-alert-border-color);
+  border-left-width: var(--sli-alert-border-width);
+  border-radius: var(--sli-radius-2x);
+  box-shadow: var(--sli-global-shadow-color);
+
+  svg,
+  path {
+    fill: var(--sli-color-textPrimary);
+  }
+}
+
+.admonition.tip {
+  background-color: var(--sli-alert-color-tip-background);
+  border-color: var(--sli-alert-tip-border-color);
+}
+
+.admonition.info {
+  background-color: var(--sli-alert-color-info-background);
+  border-color: var(--sli-alert-info-border-color);
+}
+
+.admonition.warning {
+  background-color: var(--sli-alert-color-warning-background);
+  border-color: var(--sli-alert-warning-border-color);
+}
+
+.admonition.danger {
+  background-color: var(--sli-alert-color-danger-background);
+  border-color: var(--sli-alert-danger-border-color);
+}
+
+.admonition-heading {
+  font-family: var(--sli-font-sans);
+  font-weight: var(--bold, 700);
+  font-size: var(--sli-font-size-1);
+  letter-spacing: .05ch;
+  font-variant: all-small-caps;
+}
+
+.admonition-icon {
+  display: inline-block;
+  position: relative;
+  height: auto; /* Use width & height, not logical properties, on images */
+  width: 1.3em;
+  inset-block-end: .1rem;
+  margin-inline-end: .5ch;
+  vertical-align: middle;
+}
