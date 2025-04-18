@@ -475,7 +475,7 @@ div.col-5 {
 
 /* Legal */
 .legal {
-  h1, h2, h3 {
-    font-family: var(--sli-font-sans);
+  h2 {
+    letter-spacing: .05ch;
   }
 }
