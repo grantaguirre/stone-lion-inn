@@ -274,6 +274,7 @@ initial-value: 0.1;
       --sli-color-imgBG: oklch(var(--sli-c-p-100) / .5);
     }
   }
+}
 
 #theme-toggle {
   --toggle-size: 1rem;

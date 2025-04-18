@@ -91,12 +91,12 @@ sli-dialog-gallery {
       &.current {
         filter: grayscale(.9);
         opacity: .66;
-        outline:  var(--sli-color-secondary-300) dotted var(--s-5);
+        outline:  var(--sli-color-accent) dotted var(--s-5);
 
       }
 
       &:focus-visible {
-        outline: var(--sli-color-secondary-300) solid var(--s-5);
+        outline: var(--sli-color-accent) solid var(--s-5);
       }
 
       &:not(#current) {
