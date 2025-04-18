@@ -458,24 +458,13 @@ div.col-5 {
   font-family: var(--sli-font-sans);
 }
 
-/* Reservations */
-
-#Setmore_button_iframe {
-  float:none;
-  position: fixed;
-  inset-inline-end: -2px;
-  inset-block-start: 25%; display:
-  block;
-  z-index: 20000;
-
-  &::after {
-    content: '';
-  }
-}
-
 /* Legal */
 .legal {
   h2 {
     letter-spacing: .05ch;
   }
+}
+
+h1 {
+  anchor-name: --sli-anchor-hm;
 }
