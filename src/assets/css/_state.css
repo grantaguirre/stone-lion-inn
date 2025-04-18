@@ -78,5 +78,6 @@
 /* Focus outline */
 :focus-visible {
   outline: var(--sli-alert-border-width) auto var(--sli-color-accent);
+  outline-offset: var(--s-5);
   border-radius: var(--sli-radius-1x);
 }
