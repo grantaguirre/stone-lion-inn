@@ -873,7 +873,7 @@ hr {
   }
 
   &:after {
-    background-color: var(--sli-color-textReverse);
+    /* background-color: var(--sli-color-textReverse); */
     content: var(--sli-coffee-icon);
     display: inline-block;
     position: relative;
@@ -882,6 +882,10 @@ hr {
     padding-block: 0;
     padding-inline: .25em;
   }
+}
+
+[data-theme="dark"] hr:after {
+  filter: invert(1);
 }
 
 address, caption {
