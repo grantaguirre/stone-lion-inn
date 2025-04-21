@@ -874,11 +874,11 @@ hr {
 
   &:after {
     background-color: var(--sli-color-textReverse);
-    content: "☕︎";
+    content: var(--sli-coffee-icon);
     display: inline-block;
     position: relative;
-    inset-block-start: -0.3em;
-    font-size: 3em;
+    inset-block-start: -1.2em;
+    inline-size: 3em;
     padding-block: 0;
     padding-inline: .25em;
   }
