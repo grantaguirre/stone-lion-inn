@@ -33,27 +33,27 @@ initial-value: 0.1;
 :root {
   --sli-size-textDefault: 1.25em;
 
-  --sli-c-p-50:  95% 0 0; /* Default dark theme */
-  --sli-c-p-100: 90% 0 0;
+  --sli-c-p-50:  95% 0 0;
+  --sli-c-p-100: 90% 0 0; /* Default dark theme */
   --sli-c-p-200: 80% 0 0;
   --sli-c-p-300: 70% 0 0;
   --sli-c-p-400: 60% 0 0;
   --sli-c-p-500: 50% 0 0;
   --sli-c-p-600: 40% 0 0;
   --sli-c-p-700: 30% 0 0;
-  --sli-c-p-800: 20% 0 0;
-  --sli-c-p-900: 10% 0 0; /* Default light theme */
+  --sli-c-p-800: 20% 0 0; /* Default light theme */
+  --sli-c-p-900: 10% 0 0;
 
-  --sli-color-primary-50:  oklch(var(--sli-c-p-50)); /* Default dark theme */
-  --sli-color-primary-100: oklch(var(--sli-c-p-100));
+  --sli-color-primary-50:  oklch(var(--sli-c-p-50));
+  --sli-color-primary-100: oklch(var(--sli-c-p-100)); /* Default dark theme */
   --sli-color-primary-200: oklch(var(--sli-c-p-200));
   --sli-color-primary-300: oklch(var(--sli-c-p-300));
   --sli-color-primary-400: oklch(var(--sli-c-p-400));
   --sli-color-primary-500: oklch(var(--sli-c-p-500));
   --sli-color-primary-600: oklch(var(--sli-c-p-600));
   --sli-color-primary-700: oklch(var(--sli-c-p-700));
-  --sli-color-primary-800: oklch(var(--sli-c-p-800));
-  --sli-color-primary-900: oklch(var(--sli-c-p-900)); /* Default light theme */
+  --sli-color-primary-800: oklch(var(--sli-c-p-800)); /* Default light theme */
+  --sli-color-primary-900: oklch(var(--sli-c-p-900));
 
   --sli-c-s-50:  95% 0.0923 33.43;
   --sli-c-s-100: 90% 0.0923 33.43;
