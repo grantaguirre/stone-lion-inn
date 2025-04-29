@@ -537,7 +537,7 @@ button {
   padding-inline: var(--s0);
   padding-block: var(--s-2);
 
-  font-size: var(--slie-font-size--1);
+  font-size: var(--sli-font-size--1);
   line-height: 1.1;
   text-transform: uppercase;
   letter-spacing: .05ch;

@@ -1,4 +1,23 @@
 .bnbforms-book-button {
   inset-inline-end: var(--s-3)!important;
+  inline-size: fit-content;
+  padding-inline: var(--s0)!important;
+  padding-block: var(--s-2)!important;
+
   border: 1px solid var(--sli-color-textPrimary);
+  border-radius: var(--sli-radius-1x);
+
+  font-family: var(--sli-font-sans)!important;
+  font-size: var(--sli-font-size--1);
+  font-variant: small-caps;
+  line-height: 1.1;
+  text-transform: uppercase;
+  letter-spacing: .05ch;
+
+  color: var(--sli-color-accent)!important;
+
+  @supports (text-box: trim-both cap alphabetic) {
+    padding-block: var(--s0)!important;
+    text-box: trim-both cap alphabetic;
+  }
 }
