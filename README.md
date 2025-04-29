@@ -2,7 +2,7 @@
 
 * Contributors: Chris J. Zähller (seezee)
 * Author URI: <https://github.com/seezee>
-* Version: 1.0.0
+* Version: 1.0.13
 * License: [GNUv3](https://www.gnu.org/licenses/gpl-3.0.en.html) or later
 * License URI: <https://www.gnu.org/licenses/gpl-3.0.html>
 * tags: bed, breakfast, historic, Guthrie, Oklahoma
@@ -17,11 +17,11 @@ A historic haunted bed & breakfast located in Guthrie, Oklahoma
 
 ## :notebook_with_decorative_cover: Table of Contents
 
-- [Stone Lion Inn](#stone-lion-inn)
-  - [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
-    - [:bulb: About the Project](#bulb-about-the-project)
-    - [:pencil: License](#pencil-license)
-    - [:mailbox\_with\_mail: Contact](#mailbox_with_mail-contact)
+* [Stone Lion Inn](#stone-lion-inn)
+  * [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
+    * [:bulb: About the Project](#bulb-about-the-project)
+    * [:pencil: License](#pencil-license)
+    * [:mailbox\_with\_mail: Contact](#mailbox_with_mail-contact)
 
 ### :bulb: About the Project
 

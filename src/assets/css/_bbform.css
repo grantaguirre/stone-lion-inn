@@ -1,0 +1,4 @@
+.bnbforms-book-button {
+  inset-inline-end: var(--s-3)!important;
+  border: 1px solid var(--sli-color-textPrimary);
+}

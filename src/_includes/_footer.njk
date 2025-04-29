@@ -12,7 +12,6 @@
       <small id="credit">Site Design by <a href="https://messngerwebdesign.com/" target="_blank" rel="external noopener">Messenger Web Design</a></small>
     </cluster-l>
   </stack-l>
-
   <!-- Web components, including Every Layout -->
   <!-- Load only if needed -->
   <script>
@@ -74,5 +73,32 @@
   <!-- Feed it through our Terser `jsmin` filter to minify -->
   <script>
     {{ js | jsmin | safe }}
+  </script>
+  <!--Start of the Booking Widget script-->
+  <script type="text/javascript">
+  window.$bnbFormsBookingWidget || (
+    function(d,s){
+      window.$bnbBookingWidgetConfig = {
+        uid:`2954`,
+        src:`https://bnbforms.com/102954`,
+        lang:`en_US`,
+        previewMode: true,
+        button:{
+          bgColor:`var(--sli-color-textReverse)`,
+          text:`Book Now`,
+          position:`top-right`,
+          tOffset:`150px`
+        }
+      };
+      var src = `https://cdn.bnbforms.com/v1/main.js`;
+      var $=d.createElement(s),
+      e=d.getElementsByTagName(s)[0];
+      $.async=true;
+      $.setAttribute(`charset`,`utf-8`);
+      $.src=src;
+      $.type=`text/javascript`;
+      e.parentNode.insertBefore($,e)
+    }
+  )(document,`script`);
   </script>
 </footer>
