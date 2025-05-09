@@ -11,7 +11,7 @@ ogtype: website
 
 <sli-dialog-img>
 
-  {% image "./src/assets/images/site/placeholder-1600x800.webp", "img-constrained", "Placeholder", "An image caption" %}
+  {% image "./src/assets/images/rooms/lucy-mulhall-1.jpg", "img-constrained", "The western-themed Lucy Mulhall Suite features a heavy wooden bed and a mirror-front armoire. Longhorn steer horns decorate the wall above the bed.", "An image caption" %}
 
 </sli-dialog-img>
 
@@ -21,16 +21,7 @@ Lucy Mulhall suite description goes here. Lorem ipsum dolor sit amet, consectetu
 
 <sli-dialog-gallery hint rel cols="8">
   
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-768x1024.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-768x1024.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-768x1024.webp)
+  ![The western-themed Lucy Mulhall Suite features a heavy wooden bed and a mirror-front armoire. Longhorn steer horns decorate the wall above the bed.](/assets/images/rooms/lucy-mulhall-1.jpg)
+  ![A loveseat tucked into a charming bookshelf-lined nook.](/assets/images/rooms/lucy-mulhall-2.jpg)
+  ![The bath features beaded panel wainscoting, painted white.](/assets/images/rooms/lucy-mulhall-bath.jpg)
 </sli-dialog-gallery>

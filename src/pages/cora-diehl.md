@@ -11,7 +11,7 @@ ogtype: website
 
 <sli-dialog-img>
 
-  {% image "./src/assets/images/site/placeholder-1600x800.webp", "img-constrained", "Placeholder", "An image caption" %}
+  {% image "./src/assets/images/rooms/cora-diehl-1.jpg", "img-constrained", "The Cora Diehl Suite is festooned with vintage clothing and features an antique iron bed and a ceiling fan.", "Cora Diehl Suite" %}
 
 </sli-dialog-img>
 
@@ -21,16 +21,8 @@ Cora Diehl Suite description goes here. Lorem ipsum dolor sit amet, consectetur 
 
 <sli-dialog-gallery hint rel cols="8">
   
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-768x1024.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-768x1024.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-1024x768.webp)
-  ![Placeholder](/assets/images/site/placeholder-768x1024.webp)
+  ![The Cora Diehl Suite is festooned with vintage clothing and features an antique iron bed and a ceiling fan.](/assets/images/rooms/cora-diehl-1.jpg)
+  ![The Cora Diehl Suite is festooned with vintage clothing and features an antique iron bed and a ceiling fan.](/assets/images/rooms/cora-diehl-2.jpg)
+  ![The sitting room features an antique iron daybed and an antique vanity.](/assets/images/rooms/cora-diehl-3.jpg)
+  ![A flowery yellow shower curtain adds cheeriness to the bathroom’s modern tub.](/assets/images/rooms/cora-diehl-bath.jpg)
 </sli-dialog-gallery>
