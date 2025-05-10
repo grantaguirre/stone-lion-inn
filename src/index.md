@@ -22,7 +22,7 @@ A historic haunted bed & breakfast located in Guthrie, Oklahoma
 
 Each morning you will awaken to hot coffee prepared in a French press (sugar and heavy cream provided), quiche of the day, lemon blueberry bread, smoked sausage with maple syrup glaze, hot apple pie, and orange juice.
 
-The elegant interior features include:
+## Interior
 
 * Leaded glass bookcases with original skeleton keys
 * Oversized pocket doors
@@ -32,13 +32,13 @@ The elegant interior features include:
 * A library with plentiful, comfortable seating
 * An oak-paneled dining room (seats ten guests)
 
-The original exterior includes:
+## Exterior
 
 * A wraparound covered porch
 * Original front and west entry doors with matching interior doors
 * Original windows
 
-The Grounds include:
+## Grounds
 
 * 6 lots (just under &frac12; acre)
 * Pecan trees

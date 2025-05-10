@@ -11,7 +11,7 @@
     > a.current,
     > a.current:visited {
      text-decoration-line: underline;
-     text-decoration-style: solid;
+     text-decoration-style: dotted;
      text-decoration-thickness: .5rem;
      text-underline-offset: .5rem;
 
@@ -23,7 +23,7 @@
 .js-has-submenu:has( a.current) > .listitem,
 .js-has-submenu:has( a.current:visited) > .listitem {
   text-decoration-line: underline;
-  text-decoration-style: solid;
+  text-decoration-style: dotted;
   text-decoration-thickness: .5rem;
   text-underline-offset: .5rem;
 
@@ -33,7 +33,7 @@
 .header-footer .navigation__link:has(+ .navigation__button + .navigation__submenu a.current),
 .header-footer .navigation__link:has(+ .navigatin__button + .navigation__submenu a.current:visited) {
     text-decoration-line: underline;
-    text-decoration-style: solid;
+    text-decoration-style: dotted;
     text-decoration-thickness: .5rem;
     text-underline-offset: .5rem;
 
