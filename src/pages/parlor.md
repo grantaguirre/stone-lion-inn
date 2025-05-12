@@ -15,7 +15,22 @@ ogtype: website
 
 </sli-dialog-img>
 
-<p class="descender">Parlor description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+The Parlor is located on the inn’s first floor.
+
+## Price (per 2 persons)
+
+<dl>
+  <dt>Bed & breakfast</dt>
+  <dd>$109.<sup>00</sup> + tax</dd>
+  <dt>Murder Mystery package</dt>
+  <dd>$228.<sup>00</sup> + tax & tip<dd>
+</dl>
+
+## Amenities
+
+* Full-size antique iron bed
+* Small sitting area
+* Shower (no tub)
 
 ## Gallery
 

@@ -15,7 +15,33 @@ ogtype: website
 
 </sli-dialog-img>
 
-Cora Diehl Suite description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Cora Diehl Suite is located on the inn’s second floor.
+
+## Price
+
+### For 2 persons
+
+<dl>
+  <dt>Bed & breakfast</dt>
+  <dd>$129.<sup>00</sup> + tax</dd>
+  <dt>Murder Mystery package</dt>
+  <dd>$248.<sup>00</sup> + tax & tip<dd>
+</dl>
+
+### For 3 persons
+
+<dl>
+  <dt>Bed & breakfast</dt>
+  <dd>$139.<sup>00</sup> + tax</dd>
+  <dt>Murder Mystery package</dt>
+  <dd>$317.<sup>50</sup> + tax & tip<dd>
+</dl>
+
+## Amenities
+
+* Ornate queen-size Victorian iron bed
+* Twin-size daybed in separate room
+* Modern bathtub (no shower)
 
 ## Gallery
 
