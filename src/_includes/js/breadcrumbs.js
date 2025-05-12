@@ -16,21 +16,21 @@
     return;
   } else if (rooms) {
     if (child) {
-      home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span>`);
+      home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span><span role="listitem">rooms</span>`);
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span><span role="listitem">rooms</span>`);
   } else if (cottage) {
     if (child) {
-      home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span>`);
+      home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span><span role="listitem">the cottage</span>`);
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span><span role="listitem">the cottage</span>`);
   } else if (legal) {
     if (child) {
-      home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span>`);
+      home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span>`);
     };
-    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span><span role="listitem">legal</span>`);
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span><span role="listitem">legal</span>`);
   } else {
-    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ❖ </span>`);
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span>`);
   };
 
 })(document);
