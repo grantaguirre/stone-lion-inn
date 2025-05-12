@@ -73,3 +73,28 @@ Each morning you will awaken to hot coffee prepared in a French press (sugar and
 ![Upstairs hall](/assets/images/rooms/upstairs-hall-1.jpg)
 ![Upstairs hall](/assets/images/rooms/upstairs-hall-2.jpg)
 </sli-dialog-gallery>
+
+## Further Reading
+
+<dt>
+  <dt>
+  
+  [<cite>Haunted Hotels of the West</cite>](https://www.goodreads.com/book/show/9078271-haunted-hotels-of-the-west?ac=1&from_search=true&qid=pSASSRD1YD&rank=1) by Bruce Raisch<dt>
+  <dd>Pp. 52&zwj;&ndash;&zwj;55<dd>
+  <dt>
+  
+  [<cite>Spirits Among Us</cite>](https://www.goodreads.com/book/show/25770043-spirits-among-us?ref=nav_sb_ss_1_24) by Christy Clark <dt>
+  <dd>Pp. 148&zwj;&ndash;&zwj;162<dd>
+  <dt>
+  
+  [<cite>A Ghost in My Suitcase: A Guide to Haunted Travel in America</cite>](https://www.goodreads.com/book/show/2669194-a-ghost-in-my-suitcase?ref=nav_sb_ss_2_20) by Mitchel Whitington<dt>
+  <dd>Pp. 171&zwj;&ndash;&zwj;174<dd>
+  <dt>
+  
+  [<cite>Encounters with the Paranormal</cite>](https://www.goodreads.com/book/show/24183487-encounters-with-the-paranormal?ref=nav_sb_ss_1_35) by Mike Ricksecker<dt>
+  <dd>Pp. 30&zwj;&ndash;&zwj;33<dd>
+  <dt>
+  
+  [<cite>Weird Hauntings: True Tales of Ghostly Places</cite>](https://www.goodreads.com/book/show/140258.Weird_Hauntings?ref=nav_sb_ss_1_15) compiled by Joanne Austin<dt>
+  <dd>Pp. 199&zwj;&ndash;&zwj;201<dd>
+</dt>
