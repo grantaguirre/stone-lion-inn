@@ -11,8 +11,7 @@ ogtype: website
       document.getElementById("contact-form").submit()
   }
 </script>
-<!-- markdownlint-enable MD033 -->
-<stack-l>
+
 <!-- markdownlint-disable MD025 -->
 
 # {{ title }}
@@ -22,12 +21,25 @@ Learn about our hours or send us a message.
 
 ## Office Hours
 
-<!-- TODO -->
+<small>Reservation support is available by email, telephone, or text during office hours.</small>
 
-## Send us a message
+9 a.m.&zwj;&hairsp;&zwj;&ndash;&zwj;&hairsp;&zwj;5.pm, Monday&zwj;&hairsp;&zwj;&ndash;&zwj;&hairsp;&zwj;Friday
+
+## Send Us an Email
 
   All fields are required.
 
   {% include "_contact.njk" %}
 
-</stack-l>
+## Phone
+
+<a href="tel:405-282-0012">405-282-0012</a> (Voice)
+405-414-7054 (Text)
+
+## Address
+
+<address>
+  Stone Lion Inn<br/>
+  1016 W. Warner<br/>
+  Guthrie, OK 73044
+</address>

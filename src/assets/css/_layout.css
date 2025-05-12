@@ -468,3 +468,8 @@ div.col-5 {
 h1 {
   anchor-name: --sli-anchor-hm;
 }
+
+/* Google Voice override */
+a.gv-tel-link {
+  display: none!important;
+}

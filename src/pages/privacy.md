@@ -4,7 +4,6 @@ title: Privacy Policy
 excerpt: This privacy notice for the Stone Lion Inn describes how and why we might collect, store, use, and/or share your information
 permalink: "/legal/privacy/"
 ---
-<!-- TODO:  redirect https://mercury.photo/legal-folderol/privacy/ to https://mercury.photo/legal/privacy/ -->
 
 <!-- markdownlint-disable MD025 -->
 # {{ title }}
@@ -15,7 +14,7 @@ permalink: "/legal/privacy/"
 
 This privacy notice for the Stone Lion Inn ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 
-* Visit our website at <https://mercury.photo>, or any website of ours that links to this privacy notice
+* Visit our website at <https://stonelioninn.com>, or any website of ours that links to this privacy notice
 * Engage with us in other related ways, including any sales, marketing, or events
 
 Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us through our [contact form](/contact).
@@ -219,7 +218,7 @@ If you have questions or comments about this notice, you may [contact us via our
 
 Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please [contact us](/contact).
 
-Last updated 11 April 2025.
+Last updated 12 May 2025.
 
 <aside><stack-l>
 

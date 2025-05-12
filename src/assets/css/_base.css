@@ -691,14 +691,26 @@ a:visited {
   color: var(--sli-color-textPrimary);
 }
 
-a[href^='http://']:not([href*='stonelioninnn.com.vercel.app']):not([href*='localhost']):after,
-a[href^='https://']:not([href*='stonelioninn.com.vercel.app']):not([href*='localhost']):after {
+a[href^='http://']:not([href*='stonelioninnn.com.vercel.app']):not([href*='localhost']):not([href^="tel:"]):not(.gv-tel-link):after,
+a[href^='https://']:not([href*='stonelioninn.com.vercel.app']):not([href*='localhost']):not([href^="tel:"]):not(.gv-tel-link):after {
   display: inline-block;
   margin-inline-start: .5ch;
   inline-size: 1ch;
   block-size: 1lh;
 
   content: '\2060' var(--sli-external-icon) / 'Opens in new window';
+}
+
+a[href^="tel:"]{
+
+  &:before {
+    content: "\260e";
+    margin-inline-end: 1ch;
+  }
+
+  &:after {
+    content: "";
+  }
 }
 
 /* code, math */
