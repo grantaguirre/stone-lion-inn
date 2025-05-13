@@ -2,6 +2,7 @@
 
 const browserslist                = require('browserslist');
 const eleventyAutoCacheBuster     = require('eleventy-auto-cache-buster');
+const markdownItFootnote          = require('markdown-it-footnote');
 const eleventyPluginFilesMinifier = require('@sherby/eleventy-plugin-files-minifier');
 const esbuild                     = require('esbuild');
 const { execSync }                = require('child_process')
@@ -193,7 +194,9 @@ module.exports = async function(eleventyConfig) {
 
   const markdownLib = markdownIt(markdownItOptions).use(
     markdownItAttrs
-  )
+  ).use(
+    markdownItFootnote
+  );
 
   eleventyConfig.setLibrary(`md`, markdownLib);
 

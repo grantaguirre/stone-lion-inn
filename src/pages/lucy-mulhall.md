@@ -15,7 +15,13 @@ ogtype: website
 
 </sli-dialog-img>
 
-The Lucy Mulhall Suite is located on the inn’s second floor.
+Lucille Mulhall (October 21, 1885&zwj;&ndash;&zwj;December 21, 1940) was a famous cowgirl and Wild West performer. She was raised on her family’s Mulhall Ranch in the Oklahoma Territory, near what is now Mulhall, Oklahoma.
+
+As one of the first women to compete with men in roping and riding events, Lucy was known as *Rodeo Queen*, *Queen of the Western Prairie*, and *Queen of the Saddle*, among other names.[^1]
+
+The Lucy Mulhall Suite’s decor reflects Lucy’s Wild West heritage. It is located on the inn’s second floor.
+
+[^1]: Wikipedia, <cite class="short-work"><a href="https://en.wikipedia.org/wiki/Lucille_Mulhall" target="_blank" rel="external noopener">Lucy Mulhall</a>,</cite> retrieved <time datetime="2025-05-13">May 13, 2025</time>.
 
 ## Price (per 2 persons)
 

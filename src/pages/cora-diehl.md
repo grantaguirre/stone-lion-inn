@@ -15,7 +15,11 @@ ogtype: website
 
 </sli-dialog-img>
 
+Cora Victoria Diehl was the first woman elected to public office in the Oklahoma Territory. She served as the register of deeds from 1891 to 1893, facing several unsuccessful legal challenges to her election.[^1]
+
 The Cora Diehl Suite is located on the inn’s second floor.
+
+[^1]: Wikipedia, <cite class="short-work"><a href="https://en.wikipedia.org/wiki/Cora_Victoria_Diehl" target="_blank" rel="external noopener">Cora Victoria Diehl</a>,</cite> retrieved <time datetime="2025-05-13">May 13, 2025</time>.
 
 ## Price
 
@@ -42,6 +46,7 @@ The Cora Diehl Suite is located on the inn’s second floor.
 * Ornate queen-size Victorian iron bed
 * Twin-size daybed in separate room
 * Modern bathtub (no shower)
+* Window seat in the main room
 
 ## Gallery
 
