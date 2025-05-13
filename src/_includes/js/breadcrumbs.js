@@ -5,6 +5,7 @@
 
   const home    = document.getElementById(`breadcrumb-home`);
   const path    = document.location.pathname;
+  const about    = path.startsWith(`/about/`);
   const rooms   = path.startsWith(`/rooms/`);
   const cottage  = path.startsWith(`/cottage/`);
   const legal   = path.startsWith(`/legal/`);
@@ -19,6 +20,11 @@
       home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span>`);
     };
     home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span><span role="listitem">rooms</span>`);
+  } else if (about) {
+    if (child) {
+      home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span>`);
+    };
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span><span role="listitem">about</span>`);
   } else if (cottage) {
     if (child) {
       home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span>`);
