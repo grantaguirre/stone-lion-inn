@@ -10,7 +10,7 @@ ogtype: website
 # {{ title }}
 <!-- markdownlint-enable MD025 -->
 
-A historic haunted bed & breakfast located in Guthrie, Oklahoma
+A [historic](/about/history/) haunted bed & breakfast located in Guthrie, Oklahoma
 </stack-l></hgroup>
 
 <sli-dialog-img>
@@ -18,11 +18,11 @@ A historic haunted bed & breakfast located in Guthrie, Oklahoma
   {% image "./src/assets/images/rooms/exterior-front-1.jpg", "Stone Lion Inn front face, exterior, showing the wraparound covered porch", "Stone Lion Inn front face, exterior, showing the wraparound covered porch" %}
 </sli-dialog-img>
 
-<p class="drop-cap">This stately 1907 Victorian mansion has been lovingly restored to preserve its authenticity while retaining its original charm and ambiance. We want you to experience what it must have been like to live in a gracious old mansion complete with domestic help. We have upstairs sitting rooms and a downstairs parlor and library. You will dine in the oak paneled dining room during dinner at the Murder Mystery evening and at breakfast the next morning (if you survive!). If you are up early enough, you may wish to drink coffee with “Cook,” sitting at the centuries-old French country kitchen table with up to ten other guests.</p>
+<p class="drop-cap">This stately 1907 Edwardian mansion has been lovingly restored to preserve its authenticity while retaining its original charm and ambiance. We want you to experience what it must have been like to live in a gracious old mansion complete with domestic help. We have upstairs sitting rooms and a downstairs parlor and library. You will dine in the oak paneled dining room during dinner at the Murder Mystery evening and at breakfast the next morning (if you survive!). If you are up early enough, you may wish to drink coffee with “Cook,” sitting at the centuries-old French country kitchen table with up to ten other guests.</p>
 
 <iframe width="779" height="438" src="https://www.youtube-nocookie.com/embed/RrMaNkflZFs?si=yuC0oq-koBv0EK7w" title="Stone Lion Inn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Each morning you will awaken to hot coffee prepared in a French press (sugar and heavy cream provided), quiche of the day, lemon blueberry bread, smoked sausage with maple syrup glaze, hot apple pie, and orange juice.
+You will awaken to hot coffee prepared fresh in a French press, the quiche of the day, lemon blueberry bread, smoked sausage with maple syrup glaze, hot apple pie, and orange juice.
 
 ## Interior
 
@@ -33,6 +33,7 @@ Each morning you will awaken to hot coffee prepared in a French press (sugar and
 * 3 claw-foot tubs
 * A library with plentiful, comfortable seating
 * An oak-paneled dining room (seats ten guests)
+* Ghosts(?)
 
 ## Exterior
 
