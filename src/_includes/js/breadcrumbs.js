@@ -21,11 +21,8 @@
     };
     home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span><span role="listitem">rooms</span>`);
   } else if (about) {
-    if (child) {
-      home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span>`);
-    };
-    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span><span role="listitem">about</span>`);
-  } else if (cottage) {
+    home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span><span role="listitem">about</span><span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span>`);
+  }  else if (cottage) {
     if (child) {
       home.insertAdjacentHTML(`afterend`, `<span class="breadcrumbs-separator" aria-hidden="true"> ✿ </span>`);
     };

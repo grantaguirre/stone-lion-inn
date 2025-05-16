@@ -1,7 +1,7 @@
 ---
 layout: _main.njk
 title: About the Stone Lion Inn
-permalink: "/about/about/"
+permalink: "/about/"
 ogtype: website
 ---
 
@@ -17,7 +17,40 @@ ogtype: website
 
 ## About Your Stay
 
-Policies go here (e.g., checkout times, house rules, cancellation policies).
+We want you to enjoy your stay. Please review our policies to ensure a memorable and positive experience.
+
+### Bed & Breakfast Check-In & Check-Out
+
+Please provide us with an estimated arrival time with a 30-minute window during booking.
+
+Check-out times by individual arrangement.
+
+### Murder Mystery Check-In & Check-Out
+
+Sunday through Thursday check-in by individual arrangement.
+
+All check-out times by individual arrangement.
+
+<dl>
+  </dt>Friday check-in</dt>
+  <dd>5 p.m&zwj;&ndash;&zwj;7 p.m.</dd>
+  <dd>
+  
+  [Murder Mystery](#murder-mystery) starts at 7:30 p.m.</dd>
+  </dt>Saturday check-in</dt>
+  <dd>4 p.m&zwj;&ndash;&zwj;6 p.m.</dd>
+  <dd>
+  
+  [Murder Mystery](#murder-mystery) starts at 6:30 p.m.</dd>
+</dl>
+
+### Cancellation Policy
+
+Cancellation policies vary depending on your reservation rate or dates. Please refer to your reservation confirmation to verify your cancellation policy. If you need further assistance, [call us directly](/contact/).
+
+### House Rules
+
+House rules go here.
 
 ## Rates
 
@@ -42,6 +75,6 @@ Policies go here (e.g., checkout times, house rules, cancellation policies).
 
 </div>
 
-## Murder Mystery
+<h2 id="murder-mystery">Murder Mystery</h2>
 
 Description of Murder Mystery Package goes here.
