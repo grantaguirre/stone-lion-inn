@@ -1,6 +1,6 @@
 {
   "name": "stone-lion-inn",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "description": "A historic haunted bed and breakfast located in Guthrie, Oklahoma",
   "main": "index.js",
   "scripts": {

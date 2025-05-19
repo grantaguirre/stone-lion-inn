@@ -19,17 +19,13 @@ ogtype: website
 
 We want you to enjoy your stay. Please review our policies to ensure a memorable and positive experience.
 
-### Bed & Breakfast Check-In & Check-Out
+### Bed & Breakfast Check-In
 
-Please provide us with an estimated arrival time with a 30-minute window during booking.
+Please provide us with your estimated arrival time during booking. Arrive *no later than 30 minutes* past that time.
 
-Check-out times by individual arrangement.
-
-### Murder Mystery Check-In & Check-Out
+### Murder Mystery Check-In
 
 Sunday through Thursday check-in by individual arrangement.
-
-All check-out times by individual arrangement.
 
 <dl>
   </dt>Friday check-in</dt>
@@ -43,6 +39,10 @@ All check-out times by individual arrangement.
   
   [Murder Mystery](#murder-mystery) starts at 6:30 p.m.</dd>
 </dl>
+
+### Check-Out
+
+Check-out is  11 a.m. for all guests.
 
 ### Cancellation Policy
 
